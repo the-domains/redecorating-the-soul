@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Redecorating the Soul]]></title>
         <description><![CDATA[Redecorating the Soul]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/redecorating-the-soul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:48:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 17:58:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redecorating-the-soul/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfbfa9d6-07e8-4de7-b6c3-de72cbe18db8.jpg">]]></description>
+            <link>https://thegrid.ai/redecorating-the-soul/d6fa164b-4d0c-4479-896e-53cf01412bda/index.html</link>
+            <guid isPermaLink="false">d6fa164b-4d0c-4479-896e-53cf01412bda</guid>
+            <pubDate>Mon, 15 Feb 2016 17:58:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>When we set out to accomplish anything in life, big or small, we are choosing to focus our time and energy on something that ultimately satisfies a personal desire or professional goal with the end result being our happiness and wellbeing. Many times we find ourselves thrust into a whirlwind of life changes, sometimes of our choosing but most often in a way that feels completely out of our control.  Sometimes you've got to ask the question of yourself " what is the outcome really worth"? We can get into the specifics regarding the value of a good relationship, great health, a good career and more, but ultimately it's got to make you happy and it's got to leave you feeling more alive than ever before.</p>]]></description>
-            <link>undefined0d2e009c-aa7d-4692-8197-d8d3701aff8d/index.html</link>
+            <link>https://thegrid.ai/redecorating-the-soul/0d2e009c-aa7d-4692-8197-d8d3701aff8d/index.html</link>
             <guid isPermaLink="false">0d2e009c-aa7d-4692-8197-d8d3701aff8d</guid>
             <pubDate>Mon, 15 Feb 2016 17:47:44 GMT</pubDate>
         </item>
