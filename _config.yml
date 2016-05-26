@@ -1,6 +1,6 @@
 name: Redecorating the Soul
 favicon: null
-layout_spectrum: 0.98625
+layout_spectrum: 0.99848
 typography_spectrum: 0.93824
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5f1b42'
-    - '#ce534e'
-    - '#d4d6e2'
-    - '#455932'
-    - '#90bf70'
+    - '#cca174'
+    - '#996452'
+    - '#e2c4a0'
+    - '#434128'
+    - '#16110b'
   brandStrength: 0.75
   lightness: 0.4375
   saturation: 0.4375
